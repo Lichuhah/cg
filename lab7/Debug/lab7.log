@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\labs\lab7\Source.cpp(71,9): warning C4101: j: неиспользованная локальная переменная
+D:\labs\lab7\Source.cpp(71,6): warning C4101: i: неиспользованная локальная переменная
+D:\labs\lab7\Source.cpp(173,9): warning C4101: filter: неиспользованная локальная переменная
+  lab7.vcxproj -> D:\labs\belov4932_labcCG\Debug\lab7.exe

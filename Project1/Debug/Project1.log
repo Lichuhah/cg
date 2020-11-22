@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\labs\Project1\Source.cpp(39,9): warning C4101: filter: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\labs\belov4932_labcCG\Debug\Project1.exe

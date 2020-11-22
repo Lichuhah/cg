@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\labs\Lab1\Project1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\labs\Lab1\Project1\Source.cpp(63,6): warning C4101: temp: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\labs\Lab1\Debug\Project1.exe

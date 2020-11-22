@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(59,35): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(60,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(61,35): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(63,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(64,35): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(65,35): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(66,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(67,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(69,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(71,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(72,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(73,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(74,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(75,36): warning C4305: =: усечение из "double" в "GLfloat"
+D:\labs\compgraph\Lfb1\lab2\Source.cpp(76,36): warning C4305: =: усечение из "double" в "GLfloat"
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  lab2.vcxproj -> D:\labs\compgraph\Lfb1\Debug\lab2.exe
